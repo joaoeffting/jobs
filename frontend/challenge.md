@@ -11,6 +11,8 @@
     
 - [ ] it should use React
     - [ ] Use PWA instead of RN
+        * https://developers.google.com/web/progressive-web-apps/
+        * https://pwa.rocks/
 - [ ] it should use styled-components
     - [ ] It should be responsive
 - [ ] it should use Flowtype
