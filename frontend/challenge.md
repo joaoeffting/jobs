@@ -15,6 +15,8 @@
 - [ ] it should use ReactNavigation
 - [ ] Implement code splitting using react-loadable
 - [ ] Optimize webpack
+- [ ] Try to do the back-end using Relay / Apollo + GraphQL
+- [ ] Change the front-end to use GraphQL too
 
 [storybook]: https://github.com/storybooks/storybook
 [jest]: https://jest-everywhere.now.sh
