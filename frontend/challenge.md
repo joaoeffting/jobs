@@ -11,6 +11,7 @@
     
 - [ ] it should use React
     - [ ] Use PWA instead of RN
+        * Optimistic UI Update: https://egghead.io/lessons/react-course-overview-optimistic-ui-updates-in-react
         * https://developers.google.com/web/progressive-web-apps/
         * https://pwa.rocks/
         * https://developers.google.com/web/progressive-web-apps/checklist
