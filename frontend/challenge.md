@@ -1,6 +1,14 @@
 # Frontend Challenge
 
-- [ ] Create a List and Detail view for some model (e.g: todos, posts, products)
+- [ ] Create a WattPad like site (https://www.wattpad.com)
+    * User should be able to create an Account;
+    * User should be able to post a book;
+    * User should be able to post chapter in a book
+    * User should be able to delete his own books
+    * User should be able to read a book
+    * User should be able to vote in a chapter
+    * User should be able to write a comment in a book chapter
+    
 - [ ] it should use React
 - [ ] it should use styled-components
 - [ ] it should use Flowtype
