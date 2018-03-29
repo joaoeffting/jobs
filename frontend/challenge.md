@@ -22,6 +22,8 @@
     * Read the docs
 - [ ] Test your components with [jest]
     * Finish the JS-Com-TDD Course to use this
+    * https://medium.com/backticks-tildes/testing-your-react-component-with-jest-and-enzyme-276eef45bea0
+    * https://facebook.github.io/jest/docs/en/tutorial-react.html
 - [ ] it should be open sourced on your github repo
 - [ ] use this library to fake the backend: https://github.com/typicode/json-server
 
