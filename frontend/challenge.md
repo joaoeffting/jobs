@@ -13,6 +13,7 @@
     - [ ] Use PWA instead of RN
         * https://developers.google.com/web/progressive-web-apps/
         * https://pwa.rocks/
+        * https://developers.google.com/web/progressive-web-apps/checklist
 - [ ] it should use styled-components
     - [ ] It should be responsive
 - [ ] it should use Flowtype
