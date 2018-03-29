@@ -17,6 +17,7 @@
         * https://developers.google.com/web/progressive-web-apps/checklist
         * https://br.udacity.com/course/offline-web-applications--ud899
         * https://willianjusten.com.br/como-fazer-seu-site-funcionar-offline-com-pwa/
+        * https://jakearchibald.com/2014/offline-cookbook/
 - [ ] it should use styled-components
     - [ ] It should be responsive
 - [ ] it should use Flowtype
