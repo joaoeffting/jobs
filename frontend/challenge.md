@@ -16,8 +16,11 @@
 - [ ] it should use styled-components
     - [ ] It should be responsive
 - [ ] it should use Flowtype
+    * Read the docs
 - [ ] Create a [storybook] with your components
+    * Read the docs
 - [ ] Test your components with [jest]
+    * Finish the JS-Com-TDD Course to use this
 - [ ] it should be open sourced on your github repo
 - [ ] use this library to fake the backend: https://github.com/typicode/json-server
 
