@@ -10,17 +10,16 @@
     * User should be able to write a comment in a book chapter
     
 - [ ] it should use React
+    * Use PWA instead of RN
 - [ ] it should use styled-components
+    * It should be responsive
 - [ ] it should use Flowtype
 - [ ] Create a [storybook] with your components
 - [ ] Test your components with [jest]
 - [ ] it should be open sourced on your github repo
 - [ ] use this library to fake the backend: https://github.com/typicode/json-server
-- [ ] try to share business logic with React and RN
 
 # Extras
-- [ ] Also Implement in React Native (Use Expo for this)
-- [ ] it should use ReactNavigation
 - [ ] Implement code splitting using react-loadable
 - [ ] Optimize webpack
 - [ ] Try to do the back-end using Relay / Apollo + GraphQL
