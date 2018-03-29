@@ -20,6 +20,8 @@
     * Read the docs
 - [ ] Create a [storybook] with your components
     * Read the docs
+- [ ] It should be animated
+    * https://popmotion.io/
 - [ ] Test your components with [jest]
     * Finish the JS-Com-TDD Course to use this
     * https://medium.com/backticks-tildes/testing-your-react-component-with-jest-and-enzyme-276eef45bea0
